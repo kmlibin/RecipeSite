@@ -3,7 +3,7 @@
 
 This site is for adding, storing and finding recipes. You can click 'create recipe' and be prompted to add the name of the recipe, its ingredients, method, and cook time. At the top of the page is a search bar where you can search for recipes as well. 
 
-- Firebase Deoploy: https://cooking-ninja-site-563c7.web.app/
+- Firebase Deploy: https://cooking-ninja-site-563c7.web.app/
 
 ### Languages / Tools
 
